@@ -1,0 +1,46 @@
+{
+  "name": "talisdice-flower",
+  "title": "Talis Dice - Flower",
+  "description": "Talis flower dice set for Dice So Nice",
+  "authors": [
+    {
+      "name": "Talis",
+	  "discord": "Talis'Sar#7455"
+    }
+  ],
+  "url": "https://github.com/talissar/talisdice-flowers",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.4",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [
+    "scripts/talisdice.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": [],
+  "dependencies": [
+    {
+      "name": "dice-so-nice",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json",
+      "type": "module"
+    }
+  ],
+  "socket": false,
+  "manifest": "https://github.com/talissar/talisdice-flowers/releases/download/1.0.0/module.json",
+  "download": "https://github.com/talissar/talisdice-flowers/releases/download/1.0.0/talisdice-flower.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": "false",
+  
+  "media": [
+	{
+		"type": "screenshot",
+		"url": "https://raw.githubusercontent.com/talissar/talisdice/main/pics/BlackSwirl.webp",
+		"caption": "Flower"
+	}
+  ]
+  
+}
