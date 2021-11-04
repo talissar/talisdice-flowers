@@ -38,8 +38,19 @@
   "media": [
 	{
 		"type": "screenshot",
-		"url": "https://raw.githubusercontent.com/talissar/talisdice/main/pics/BlackSwirl.webp",
-		"caption": "Flower"
+		"url": "https://raw.githubusercontent.com/talissar/talisdice-flowers/main/pics/Talis-Dice-Flowers-cover.webp"
+	},
+	{
+		"type": "video",
+		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower1.webm"
+	},
+	{
+		"type": "video",
+		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower2.webm"
+	},
+	{
+		"type": "video",
+		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower3.webm"
 	}
   ]
   
