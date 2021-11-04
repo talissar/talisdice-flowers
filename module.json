@@ -42,15 +42,18 @@
 	},
 	{
 		"type": "video",
-		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower1.webm"
+		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower1.webm",
+		"loop": true
 	},
 	{
 		"type": "video",
-		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower2.webm"
+		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower2.webm",
+		"loop": true
 	},
 	{
 		"type": "video",
-		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower3.webm"
+		"url": "https://github.com/talissar/talisdice-flowers/raw/main/pics/flower3.webm",
+		"loop": true
 	}
   ]
   
